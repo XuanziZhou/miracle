@@ -13,10 +13,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author Miracle Xu
+ * @author Zhou Xuanzi
  * @Description:
  * @create: 2018/8/22 16:02
- * @Copyright: 2018 www.lvmama.com All rights reserved.
+ * @Copyright: 2018-2019
  **/
 @RestController
 public class DataController {

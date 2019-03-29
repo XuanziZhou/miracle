@@ -8,10 +8,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author Miracle Xu
+ * @author Zhou Xuanzi
  * @Description: index Controller
  * @create: 2018/7/23 17:35
- * @Copyright: 2018 www.lvmama.com All rights reserved.
+ * @Copyright: 2018-2019
  **/
 
 @Controller
